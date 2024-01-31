@@ -3,3 +3,12 @@ body {
     color: white;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
 }
+
+#welcome {
+    background-color: gold;
+    color: black;
+    border: 5px dashed black;
+    text-align: center;
+    font-family: 'Papyrus', 'Arial Narrow Bold';
+    font-weight: bold;
+}
