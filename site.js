@@ -19,8 +19,9 @@ function dynamicWelcome() {
 
 dynamicWelcome()
 
-// Assignment 4 Code
+// Assignment 4 Code... That doesn't WORK
 
+/*
 const mySecretMessage = "If you are reading this, you should totally subscribe to UTF on youtube.com!";
 // Not affiliated
 
@@ -48,3 +49,9 @@ document.getElementById('myForm').addEventListener('submit', function(event) {
         alert('Didn\'t seem to do anything.. Maybe try again?');
     }
 });
+*/
+
+// Assignment 4 Code again
+localStorage.setItem("It's a secret to everybody.", "If you are reading this, you should totally subscribe to UTF on youtube.com!");
+// STILL Not affiliated
+// ...Is this really all I had to do??
